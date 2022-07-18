@@ -1,6 +1,6 @@
-[![acend GmbH](images/AC-logo-claim-rgb-red.svg)](https://www.acend.ch/en)
+[![acend GmbH](https://raw.githubusercontent.com/acend/.github/main/profile/images/AC-logo-claim-rgb-red.svg)](https://www.acend.ch/en)
 
-Follow us [![Twitter](images/twitter.svg)](https://twitter.com/acendch) [![LinkedIn](images/linkedin.svg)](https://ch.linkedin.com/company/acendch)
+Follow us [![Twitter](https://raw.githubusercontent.com/acend/.github/main/profile/images/twitter.svg)](https://twitter.com/acendch) [![LinkedIn](https://raw.githubusercontent.com/acend/.github/main/profile/images/linkedin.svg)](https://ch.linkedin.com/company/acendch)
 
 We offer Cloud Native training with experts who use these technologies every day. Trainings with a unique experience and a lot of handson.
 
